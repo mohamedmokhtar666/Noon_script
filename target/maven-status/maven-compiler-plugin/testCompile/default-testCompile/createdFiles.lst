@@ -1,0 +1,6 @@
+base\BaseTest.class
+forgetpassword\ForgetPasswordTests.class
+login\SignInData.class
+login\LoginInTest.class
+register\RegisterTest.class
+register\SignUpData.class

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/mohamed mokhtar/ITI SW TESTING/Test Automation/demo_scanario1">
+    <classes><class name="forgetpassword.ForgetPasswordTests">
+        <methods><include name="testForgetPassword"/></methods></class>
+        <class name="login.LoginInTest"><methods><include name="testLoginIn"/><include name="testLogOut"/>
+        </methods></class><class name="register.RegisterTest"><methods><include name="testSignUpValid"/></methods>
+        </class></classes></test></suite>
